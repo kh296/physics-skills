@@ -1,0 +1,7 @@
+name: physics_skills
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - python=3
