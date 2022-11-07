@@ -13,17 +13,19 @@ Running the notebook Python 3 and the packages:
 
 One approach for obtaining the software and running the notebook is as follows, where the commands given should be executed from a terminal window:
 
-1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
-2. Clone the `physics-skills` repository:
+1. If not already available, install [git](https://git-scm.com/download).
+2. If not already avialable, install
+[Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+3. Clone the `physics-skills` repository:
 ```
 git clone https://github.com/kh296/physics-skills
 ```
-3. Create a `physics-skills` environment:
+4. Create a `physics-skills` environment:
 ```
 cd physics-skills
 conda env create --file environment.yml
 ```
-4. Once created, the environment can be activated with:
+5. Once created, the environment can be activated with:
 ```
 conda activate physics-skills
 ```
