@@ -40,4 +40,4 @@ jupyter lab notebooks/rolling_balls.ipynb
 ```
 Variables defined in the last cell can be altered to investigate
 the effect of changing initial ball velocity, depression length,
-depression depth, slope of depression sides
+depression depth, slope of depression sides.
